@@ -7,4 +7,4 @@
 
 # 自信自拍
 
-![image.png](https://i.loli.net/2021/08/08/XdtyJu18wNaBlsr.png)
+![](作者/自拍.png)
