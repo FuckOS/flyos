@@ -1,8 +1,6 @@
-###### 网路暴力不可取, 请不要做出过分的行为, 此仓库将在作者承认错误后立即关闭
-
-###### https://github.com/xingyujie/flyos/issues/56
-
-###### #10
+***网路暴力不可取, 请不要做出过分的行为, 此仓库将在作者承认错误后立即关闭***  
+***[一点建议 · Issue #56 · xingyujie/flyos](https://github.com/xingyujie/flyos/issues/56)***   
+***[关于网络暴力 · Issue #10 · jsun969/flyos](https://github.com/jsun969/flyos/issues/10)***
 
 # FlyOS
 
