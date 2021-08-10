@@ -1,3 +1,9 @@
+###### 网路暴力不可取, 请不要做出过分的行为, 此仓库将在作者承认错误后立即关闭
+
+###### https://github.com/xingyujie/flyos/issues/56
+
+###### #10
+
 # FlyOS
 
 > 震惊!五年级小学生创立编写的软件竟然高达五十万行代码! [BiliBili 原视频](https://www.bilibili.com/video/BV1My4y1L7ft)
