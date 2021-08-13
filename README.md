@@ -1,6 +1,8 @@
-***网路暴力不可取, 请不要做出过分的行为, 此仓库将在作者承认错误后立即关闭***  
-***[一点建议 · Issue #56 · xingyujie/flyos](https://github.com/xingyujie/flyos/issues/56)***   
-***[关于网络暴力 · Issue #10 · jsun969/flyos](https://github.com/jsun969/flyos/issues/10)***
+~~**_网路暴力不可取, 请不要做出过分的行为, 此仓库将在作者承认错误后立即关闭_**  
+**_[一点建议 · Issue #56 · xingyujie/flyos](https://github.com/xingyujie/flyos/issues/56)_**  
+**_[关于网络暴力 · Issue #10 · jsun969/flyos](https://github.com/jsun969/flyos/issues/10)_**~~
+
+# [邢宇杰 - 恶俗维基](https://esu.dog/%E9%82%A2%E5%AE%87%E6%9D%B0)
 
 # FlyOS
 
@@ -14,6 +16,7 @@
 |              |                        |
 | ------------ | ---------------------- |
 | 姓名         | 邢宇杰                 |
+| 身份证       | 510704200708020315     |
 | 生日         | 2007.8.2               |
 | 所在地       | 中国四川绵阳           |
 | 手机号       | 18990149475            |
