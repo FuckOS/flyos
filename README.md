@@ -37,4 +37,4 @@
 
 # For AntiFlyOSer
 
-Q群链接:[974328518](https://jq.qq.com/?_wv=1027&k=wtWfCI2G)
+Q 群链接:[974328518](https://jq.qq.com/?_wv=1027&k=wtWfCI2G)
