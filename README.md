@@ -37,7 +37,8 @@
 # 自信自拍
 
 ![](作者/自拍.png)
-
+# 小心臺獨
+![](臺獨.jpg)
 # For AntiFlyOSer
 
 Q 群链接:[974328518](https://jq.qq.com/?_wv=1027&k=wtWfCI2G)
